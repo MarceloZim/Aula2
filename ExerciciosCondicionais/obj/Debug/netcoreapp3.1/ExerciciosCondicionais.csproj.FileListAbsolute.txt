@@ -1,0 +1,14 @@
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.exe
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.deps.json
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.runtimeconfig.json
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.runtimeconfig.dev.json
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.dll
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosCondicionais.pdb
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.csproj.AssemblyReference.cache
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.AssemblyInfoInputs.cache
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.AssemblyInfo.cs
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.csproj.CoreCompileInputs.cache
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.dll
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.pdb
+C:\Windows\C#ZIM\Aula2\ExerciciosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosCondicionais.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\bin\Debug\netcoreapp3.1\Manipulação de texto.exe
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\bin\Debug\netcoreapp3.1\Manipulação de texto.deps.json
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\bin\Debug\netcoreapp3.1\Manipulação de texto.runtimeconfig.json
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\bin\Debug\netcoreapp3.1\Manipulação de texto.runtimeconfig.dev.json
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\bin\Debug\netcoreapp3.1\Manipulação de texto.dll
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\bin\Debug\netcoreapp3.1\Manipulação de texto.pdb
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\obj\Debug\netcoreapp3.1\Manipulação de texto.csproj.AssemblyReference.cache
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\obj\Debug\netcoreapp3.1\Manipulação de texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\obj\Debug\netcoreapp3.1\Manipulação de texto.AssemblyInfoInputs.cache
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\obj\Debug\netcoreapp3.1\Manipulação de texto.AssemblyInfo.cs
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\obj\Debug\netcoreapp3.1\Manipulação de texto.csproj.CoreCompileInputs.cache
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\obj\Debug\netcoreapp3.1\Manipulação de texto.dll
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\obj\Debug\netcoreapp3.1\Manipulação de texto.pdb
+C:\Windows\C#ZIM\Aula2\Manipulação de texto\obj\Debug\netcoreapp3.1\Manipulação de texto.genruntimeconfig.cache

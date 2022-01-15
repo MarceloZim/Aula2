@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Apex03\\Desktop\\C#ZIM\\Aula2\\Aula2\\Aula2.csproj": {}
+    "C:\\Windows\\C#ZIM\\Aula2\\Aula2\\Aula2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Apex03\\Desktop\\C#ZIM\\Aula2\\Aula2\\Aula2.csproj": {
+    "C:\\Windows\\C#ZIM\\Aula2\\Aula2\\Aula2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Apex03\\Desktop\\C#ZIM\\Aula2\\Aula2\\Aula2.csproj",
+        "projectUniqueName": "C:\\Windows\\C#ZIM\\Aula2\\Aula2\\Aula2.csproj",
         "projectName": "Aula2",
-        "projectPath": "C:\\Users\\Apex03\\Desktop\\C#ZIM\\Aula2\\Aula2\\Aula2.csproj",
+        "projectPath": "C:\\Windows\\C#ZIM\\Aula2\\Aula2\\Aula2.csproj",
         "packagesPath": "C:\\Users\\Apex03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Apex03\\Desktop\\C#ZIM\\Aula2\\Aula2\\obj\\",
+        "outputPath": "C:\\Windows\\C#ZIM\\Aula2\\Aula2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Apex03\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+C:\Windows\C#ZIM\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.exe
+C:\Windows\C#ZIM\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.deps.json
+C:\Windows\C#ZIM\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.json
+C:\Windows\C#ZIM\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.dev.json
+C:\Windows\C#ZIM\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.dll
+C:\Windows\C#ZIM\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.pdb
+C:\Windows\C#ZIM\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csproj.AssemblyReference.cache
+C:\Windows\C#ZIM\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\C#ZIM\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfoInputs.cache
+C:\Windows\C#ZIM\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfo.cs
+C:\Windows\C#ZIM\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csproj.CoreCompileInputs.cache
+C:\Windows\C#ZIM\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.dll
+C:\Windows\C#ZIM\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.pdb
+C:\Windows\C#ZIM\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.genruntimeconfig.cache
