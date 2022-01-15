@@ -1,0 +1,14 @@
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\bin\Debug\netcoreapp3.1\LacosDeRepeticao.exe
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\bin\Debug\netcoreapp3.1\LacosDeRepeticao.deps.json
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\bin\Debug\netcoreapp3.1\LacosDeRepeticao.runtimeconfig.json
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\bin\Debug\netcoreapp3.1\LacosDeRepeticao.runtimeconfig.dev.json
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\bin\Debug\netcoreapp3.1\LacosDeRepeticao.dll
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\bin\Debug\netcoreapp3.1\LacosDeRepeticao.pdb
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\obj\Debug\netcoreapp3.1\LacosDeRepeticao.csproj.AssemblyReference.cache
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\obj\Debug\netcoreapp3.1\LacosDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\obj\Debug\netcoreapp3.1\LacosDeRepeticao.AssemblyInfoInputs.cache
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\obj\Debug\netcoreapp3.1\LacosDeRepeticao.AssemblyInfo.cs
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\obj\Debug\netcoreapp3.1\LacosDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\obj\Debug\netcoreapp3.1\LacosDeRepeticao.dll
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\obj\Debug\netcoreapp3.1\LacosDeRepeticao.pdb
+C:\Windows\C#ZIM\Aula2\LacosDeRepeticao\obj\Debug\netcoreapp3.1\LacosDeRepeticao.genruntimeconfig.cache
